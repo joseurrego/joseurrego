@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Jose Luis Urrego - Systems and Telecommunication Engineer
 
-<a href='https://github.com/joseurrego'><img src='![GitHub followers](https://img.shields.io/github/followers/joseurrego?style=social)'/></a>
+<a href='https://github.com/joseurrego'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/></a>
 <br>
 <a href='https://www.linkedin.com/in/jurrego/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 
-Here are some ideas to get you started:
+Here are some ideas I am working on:
 
 - 🔭 I’m currently working on my repository with differents ideas for practice my knowledge
 - 🌱 I’m currently learning Angular, Java

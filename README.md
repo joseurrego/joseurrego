@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Jose Luis Urrego - Systems and Telecommunication Engineer
 
-![GitHub followers](https://img.shields.io/github/followers/joseurrego?style=social)
+<a href='https://github.com/joseurrego'><img src='![GitHub followers](https://img.shields.io/github/followers/joseurrego?style=social)'/></a>
 <br>
 <a href='https://www.linkedin.com/in/jurrego/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 

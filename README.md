@@ -1,8 +1,7 @@
 ### Hi there 👋 I am Jose Luis Urrego - Systems and Telecommunication Engineer
 
 ![GitHub followers](https://img.shields.io/github/followers/joseurrego?style=social)
-<img src="" > <i>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</i> <img>
-
+<a href='https://www.linkedin.com/in/jurrego/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 
 Here are some ideas to get you started:
 

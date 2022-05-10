@@ -1,8 +1,12 @@
-### Hi there 👋 I am Jose Luis Urrego - Systems and Telecommunication Engineer
-
-<a href='https://github.com/joseurrego'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/></a>
+![github-readme-profile](https://github.com/joseurrego/joseurrego/blob/e08fd7ce162fa96f21782d59ede150049bd587e9/img/Jose%20Urrego%20LOGO2.png)
 <br>
+<a href='https://github.com/joseurrego'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/></a>
 <a href='https://www.linkedin.com/in/jurrego/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+
+
+
+# <img src='https://github.com/joseurrego/joseurrego/blob/e08fd7ce162fa96f21782d59ede150049bd587e9/img/Logo%20Unitario%20Jose.png' style="width: 50px; border-radius: 50px"/> Hi there!! 👋 I'm Jose Luis Urrego.
+### Systems and Telecommunication Engineer
 
 Here are some ideas I am working on:
 

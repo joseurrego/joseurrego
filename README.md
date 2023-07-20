@@ -20,7 +20,7 @@
 ## About Me
 
 - 👨🏻‍💻 Systems and Telecommunications Enginner at Sergio Arboleda University
-- 💻 Junior Java Developer in Periferia It Group
+- 💻 Java Developer in Periferia It Group
 - 🏅 4.38 grade point average in college
 
 
